@@ -1,0 +1,24 @@
+{
+  "name": "EtherDiamond",
+  "symbol": "ETD",
+  "address": "0x2773c69D7A7E2943F6E27c9947d5ae4E2b853993",
+  "overview":{
+        "en": "ETD is an encrypted digital currency jointly developed by blockchain experts in Venezuela and China. ",
+        "zh": "ETD是由委内瑞拉和中国的区块链专家共同开发的一种加密数字货币。"
+  },
+  "email": "support@etherdiamond.cc",
+  "website": "https://etherdiamond.cc/indexen.php",
+  "whitepaper": "https://etherdiamond.cc/EtherDiamond%20English.pdf/",
+  "state": "Venezuela",
+  "published_on": "2018-11-12",
+  "initial_price":{
+        "ETH":"0.00054160 ETH",
+        "USD":"0.05 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/EtherDiamond",
+    "telegram": "https://t.me/EtherDiamondGroup",
+    "github": "https://github.com/kkkcc",
+    "facebook": "https://www.facebook.com/ETDofficial"
+  }
+}
